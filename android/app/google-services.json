@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "1087904315481",
+    "project_id": "payziff",
+    "storage_bucket": "payziff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1087904315481:android:e57397fb1b46a4d2301948",
+        "android_client_info": {
+          "package_name": "com.example.untitled"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1087904315481-e003sv4jdtlb833j9417r4lskhnsmq6i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.untitled",
+            "certificate_hash": "7149b99e1c45ee67d03ef57d45b181ed4882bb64"
+          }
+        },
+        {
+          "client_id": "1087904315481-tqut24gfnp575rack6p2qicfrsfokpen.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9h73ME2Noz5vYuu-BFlGJ8Z-vWW_Jy8Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1087904315481-tqut24gfnp575rack6p2qicfrsfokpen.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1087904315481-mhua9fgbp1mtsr95kqa0mobd5e5r77tg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.untitled"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
